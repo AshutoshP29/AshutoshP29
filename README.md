@@ -3,13 +3,13 @@
 ECE undergrad at Maharaja Agrasen Institute of Technology, Delhi. I build ML and LLM systems
 and care about whether they actually work: honest validation, evidence over guesses, measured results.
 
-📄 Published research paper with IEEE · 🥈 2nd place, Data Heist CTF + ML Challenge
+📄 Published research paper with IEEE · 🥈 2nd place, Data Heist CTF + ML Challenge (IEEE, DTU)
 
 ## Featured projects
 
 - **[WhyCode](https://github.com/AshutoshP29/why-code-axiom)**: answers "why is the code like this?"
   from commits, PRs and issues, with evidence on every answer. Neo4j · FastAPI · LLMs · CI-tested.
-- **[Data Heist](https://github.com/AshutoshP29/DataHeist_CTF_ML_Challenge)**: 2nd place. Found planted
+- **[Data Heist](https://github.com/AshutoshP29/DataHeist_CTF_ML_Challenge)**: 2nd place at IEEE DTU. Found planted
   data leaks, race-grouped CV, two-stage weather model. LightGBM · PyTorch · Optuna.
 - **[Deep RL Track Navigation](https://github.com/AshutoshP29/deep-rl-track-navigation)**: PPO vs SAC
   car agent; SAC finished 50 random starts without a crash.
